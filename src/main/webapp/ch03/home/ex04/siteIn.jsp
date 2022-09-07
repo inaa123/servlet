@@ -9,7 +9,7 @@
 -->
 
 <form action='siteProc.jsp' method='post'>
-	<input type='radio' name='daum'/>daum
-	<input type='radio' name='naver'/>naver
+	다음: <input type='radio' name='daum'/>
+	네이버: <input type='radio' name='naver'/>
 	<input type='submit'/>
 </form>
