@@ -1,5 +1,5 @@
-<%@ page language='java' contentType='text/html; charset=utf-8' pageEncoding='utf-8'%>
 <%-- directive --%> 
+<%@ page language='java' contentType='text/html; charset=utf-8' pageEncoding='utf-8'%>
 <% //scriptlet
 	int num1 = 1;
 	int num2 = 2;
